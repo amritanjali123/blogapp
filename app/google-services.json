@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158370684036",
+    "firebase_url": "https://picfirebaseproject-e26eb.firebaseio.com",
+    "project_id": "picfirebaseproject-e26eb",
+    "storage_bucket": "picfirebaseproject-e26eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158370684036:android:0b12cd0174ce8d74",
+        "android_client_info": {
+          "package_name": "com.example.amritanjali.pic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158370684036-uoasi2t2gsttae2ja91ccjkbmm60uhb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amritanjali.pic",
+            "certificate_hash": "ab81c8a0c376c451642ecc87f6d8ec6a25457468"
+          }
+        },
+        {
+          "client_id": "158370684036-julspd1u9aodpsqb0oki9kj4u0tgmptd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzFlfOPsG7NPmhOgiTJg47kC6SouNTes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158370684036-julspd1u9aodpsqb0oki9kj4u0tgmptd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
